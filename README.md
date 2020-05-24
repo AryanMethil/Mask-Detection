@@ -23,3 +23,6 @@ The folder has the hierarchy:
 The hierarchy should be preserved for the code to work.
 
 3. You might get the need to change directory names in the 2nd cell as per how the files are stored in your colab.(In the code,/content/ represents the directory of colab)
+
+### Acknowledgements
+https://www.kaggle.com/ahmetfurkandemr/mask-datasets-v1 for the dataset
