@@ -19,5 +19,6 @@ The folder has the hierarchy:
   - Validation
     - Mask
     - No_mask
+
 The hierarchy should be preserved for the code to work
 3. You might get the need to change directory names in the 2nd cell as per how the files are stored in your colab.(In the code,/content/ represents the directory of colab)
